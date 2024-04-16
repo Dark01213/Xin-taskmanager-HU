@@ -9,6 +9,6 @@ Un programme rudimentaire de gestion de tâches en python.
 - `contributeur-3`: Hu Cédric 
 
 ## Fork urls
-- `contributeur-1`: [xin206-taskmanager-bar-b](url-1)
-- `contributeur-2`: [xin206-taskmanager-wizz-b](url-2)
-- `contributeur-3`: [xin206-taskmanager-toto-b](url-3)
+- `contributeur-1`: https://github.com/craigarmel/Xin-taskmanager-Youakoua-Armel
+- `contributeur-2`: https://github.com/Valentinduong/Xin-taskmanager-DUONG
+- `contributeur-3`: Hôte du dépôt
